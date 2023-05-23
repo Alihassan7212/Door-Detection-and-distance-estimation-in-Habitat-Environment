@@ -40,7 +40,7 @@ Before running the project, ensure that you have the following dependencies inst
 2. Run the door detection script:
 
    ```shell
-   python door_detection.py
+   python yolofinal.py
    ```
 
    The script will use the YOLOv8 model to detect doors in the input images. You have to do some chages if you want to train the model on your own dataset
